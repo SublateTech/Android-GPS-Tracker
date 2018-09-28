@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidGPS\\TellMeWakeAndLock-new-feature1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\AndroidGPS\\TellMeWakeAndLock-new-feature1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidGPS\\com.sublate.gpstracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\AndroidGPS\\com.sublate.gpstracker\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

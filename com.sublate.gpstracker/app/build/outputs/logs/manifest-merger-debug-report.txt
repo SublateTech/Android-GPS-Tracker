@@ -1,0 +1,135 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:2:1-63:12
+	package
+		ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:12:5-83
+	android:name
+		ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:12:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.INTERNET
+ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:14:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:17:5-75
+	android:name
+		ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:17:22-72
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:18:5-78
+	android:name
+		ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:18:22-75
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:19:5-76
+	android:name
+		ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:19:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:20:5-68
+	android:name
+		ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:20:22-65
+application
+ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:22:5-61:19
+	android:label
+		ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:25:9-41
+	android:allowBackup
+		ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:23:9-35
+	android:icon
+		ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:24:9-45
+	android:theme
+		ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:26:9-40
+activity#com.sublate.gpstracker.MainActivity
+ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:27:9-35:20
+	android:label
+		ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:29:13-45
+	android:name
+		ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:28:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:33:27-74
+service#com.sublate.gpstracker.WakeLockTimeService
+ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:37:9-44:19
+	android:exported
+		ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:38:13-48
+intent-filter#com.lzmy.tellmewakeandlock.ScreenActionReceiver.SCREEN_OFF_TIME+com.lzmy.tellmewakeandlock.ScreenActionReceiver.SCREEN_ON_TIME
+ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:40:13-43:29
+action#com.lzmy.tellmewakeandlock.ScreenActionReceiver.SCREEN_ON_TIME
+ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:41:17-105
+	android:name
+		ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:41:25-102
+action#com.lzmy.tellmewakeandlock.ScreenActionReceiver.SCREEN_OFF_TIME
+ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:42:17-106
+	android:name
+		ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:42:25-103
+service#com.sublate.gpstracker.Tracker.TrackerService
+ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:46:9-48:38
+	android:enabled
+		ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:48:13-35
+	android:name
+		ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:47:13-51
+receiver#com.sublate.gpstracker.BootCompletedReceiver
+ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:50:9-54:20
+	android:name
+		ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:50:19-56
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:51:13-53:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:52:17-79
+	android:name
+		ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:52:25-76
+receiver#com.sublate.gpstracker.Tracker.ScreenActionReceiver
+ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:56:9-60:20
+	android:name
+		ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:56:19-63
+intent-filter#com.sublate.gpstracker.WAKE_UP
+ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:57:13-59:29
+action#com.sublate.gpstracker.WAKE_UP
+ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:58:17-73
+	android:name
+		ADDED from D:\AndroidGPS\com.sublate.gpstracker\app\src\main\AndroidManifest.xml:58:25-70

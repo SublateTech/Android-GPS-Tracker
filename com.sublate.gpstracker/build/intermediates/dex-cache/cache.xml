@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidGPS\com.sublate.gpstracker\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="1f281f6ae1b8ccaa780b1be9b50a0d6b3381a2a5">
+        <dex dex="D:\AndroidGPS\com.sublate.gpstracker\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_daf8a045207fdfe41ce6e6389e0ed2561003f5e7.jar" />
+    </item>
+
+</items>
